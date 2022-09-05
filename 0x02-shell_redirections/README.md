@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+Display all lines of the file /etc/ssh/sshd_config starting with a letter.
